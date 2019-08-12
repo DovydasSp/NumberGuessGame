@@ -1,0 +1,175 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Dovydas\Desktop\NumberGuessGame\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Dovydas\Desktop\NumberGuessGame\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Dovydas\Desktop\NumberGuessGame\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Dovydas\Desktop\NumberGuessGame\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\540b8cfb871ef6b86e1f34fec4780bb6\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\a3aff1d9a7bc18a4e3031161877a8b05\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\5f5db7d480866b70bd51d27dc8f76dd6\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\292df723aaf74787aa90871c376896f6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\25e28eab3c016ffba72941714377d559\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\1e35f10e01c60be4905ea1a3046410c7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\78b7b2efc9b39b4934dda00327d9ef72\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\8d00a168e813ff45bd8ca2b1cf62c05b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\b2c4b41fa940b340cbb083c7acf50f67\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\8ca151398af9e35b565110e49af4ecea\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\a83b2f7874acc496633c644c13c74961\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\5abf7bd321dea4643a6232477aa1bd59\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\645c19b86e8c9d278d048a698b47d180\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\99889285cfe7461f93b3fe4714b9e77e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\82db6613a1d869a44da7412362e23d68\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\d3ebe1556a5b396929343c23edf1886c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\4ea079d8287d4e4e481ba7c9b4f131ec\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\9ffa1d4b40b8be4fda9885056476f03c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\8d238d0bd03f5fda89c01cf42ed9690c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\8623e724da9a9d0c22d92f3a4fa92a3e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\19f2c7df801e764ef5c816ecc7aa9f1b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\d20a8833175e536ffeb6e17b3b64d968\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\592ed2747b48d37e4676a8ab218c81e0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\9139b665a3bde178ed610c8b513a626b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\cf1f8407edac2620206a6184ea5d9a7a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\6933f3220f272fce4f37462ae803619a\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Dovydas\Desktop\NumberGuessGame\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Dovydas\Desktop\NumberGuessGame\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Dovydas\Desktop\NumberGuessGame\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from C:\Users\Dovydas\Desktop\NumberGuessGame\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from C:\Users\Dovydas\Desktop\NumberGuessGame\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dovydas\Desktop\NumberGuessGame\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Dovydas\Desktop\NumberGuessGame\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dovydas\Desktop\NumberGuessGame\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\Dovydas\Desktop\NumberGuessGame\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Dovydas\Desktop\NumberGuessGame\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dovydas\Desktop\NumberGuessGame\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\Dovydas\Desktop\NumberGuessGame\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Dovydas\Desktop\NumberGuessGame\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Dovydas\Desktop\NumberGuessGame\app\src\main\AndroidManifest.xml:5:5-25:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\540b8cfb871ef6b86e1f34fec4780bb6\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\540b8cfb871ef6b86e1f34fec4780bb6\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\5f5db7d480866b70bd51d27dc8f76dd6\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\5f5db7d480866b70bd51d27dc8f76dd6\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\4ea079d8287d4e4e481ba7c9b4f131ec\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\4ea079d8287d4e4e481ba7c9b4f131ec\AndroidManifest.xml:22:5-89
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\4ea079d8287d4e4e481ba7c9b4f131ec\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Dovydas\Desktop\NumberGuessGame\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Dovydas\Desktop\NumberGuessGame\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Dovydas\Desktop\NumberGuessGame\app\src\main\AndroidManifest.xml:9:9-53
+	android:icon
+		ADDED from C:\Users\Dovydas\Desktop\NumberGuessGame\app\src\main\AndroidManifest.xml:7:9-49
+	android:allowBackup
+		ADDED from C:\Users\Dovydas\Desktop\NumberGuessGame\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Dovydas\Desktop\NumberGuessGame\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.dovspe.NumberGuessGame.MainActivity
+ADDED from C:\Users\Dovydas\Desktop\NumberGuessGame\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Dovydas\Desktop\NumberGuessGame\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Dovydas\Desktop\NumberGuessGame\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Dovydas\Desktop\NumberGuessGame\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Dovydas\Desktop\NumberGuessGame\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Dovydas\Desktop\NumberGuessGame\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Dovydas\Desktop\NumberGuessGame\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.dovspe.NumberGuessGame.ActivityAbout
+ADDED from C:\Users\Dovydas\Desktop\NumberGuessGame\app\src\main\AndroidManifest.xml:19:9-51
+	android:name
+		ADDED from C:\Users\Dovydas\Desktop\NumberGuessGame\app\src\main\AndroidManifest.xml:19:19-48
+activity#com.example.dovspe.NumberGuessGame.SettingActivity
+ADDED from C:\Users\Dovydas\Desktop\NumberGuessGame\app\src\main\AndroidManifest.xml:20:9-53
+	android:name
+		ADDED from C:\Users\Dovydas\Desktop\NumberGuessGame\app\src\main\AndroidManifest.xml:20:19-50
+activity#com.example.dovspe.NumberGuessGame.LevelSelectActivity
+ADDED from C:\Users\Dovydas\Desktop\NumberGuessGame\app\src\main\AndroidManifest.xml:21:9-57
+	android:name
+		ADDED from C:\Users\Dovydas\Desktop\NumberGuessGame\app\src\main\AndroidManifest.xml:21:19-54
+activity#com.example.dovspe.NumberGuessGame.PlayActivity
+ADDED from C:\Users\Dovydas\Desktop\NumberGuessGame\app\src\main\AndroidManifest.xml:22:9-50
+	android:name
+		ADDED from C:\Users\Dovydas\Desktop\NumberGuessGame\app\src\main\AndroidManifest.xml:22:19-47
+activity#com.example.dovspe.NumberGuessGame.WinLoseActivity
+ADDED from C:\Users\Dovydas\Desktop\NumberGuessGame\app\src\main\AndroidManifest.xml:23:9-53
+	android:name
+		ADDED from C:\Users\Dovydas\Desktop\NumberGuessGame\app\src\main\AndroidManifest.xml:23:19-50
+activity#com.example.dovspe.NumberGuessGame.StatsActivity
+ADDED from C:\Users\Dovydas\Desktop\NumberGuessGame\app\src\main\AndroidManifest.xml:24:9-60
+	android:name
+		ADDED from C:\Users\Dovydas\Desktop\NumberGuessGame\app\src\main\AndroidManifest.xml:24:19-48
+uses-sdk
+INJECTED from C:\Users\Dovydas\Desktop\NumberGuessGame\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Dovydas\Desktop\NumberGuessGame\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Dovydas\Desktop\NumberGuessGame\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\540b8cfb871ef6b86e1f34fec4780bb6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\540b8cfb871ef6b86e1f34fec4780bb6\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\a3aff1d9a7bc18a4e3031161877a8b05\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\a3aff1d9a7bc18a4e3031161877a8b05\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\5f5db7d480866b70bd51d27dc8f76dd6\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\5f5db7d480866b70bd51d27dc8f76dd6\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\292df723aaf74787aa90871c376896f6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\292df723aaf74787aa90871c376896f6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\25e28eab3c016ffba72941714377d559\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\25e28eab3c016ffba72941714377d559\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\1e35f10e01c60be4905ea1a3046410c7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\1e35f10e01c60be4905ea1a3046410c7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\78b7b2efc9b39b4934dda00327d9ef72\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\78b7b2efc9b39b4934dda00327d9ef72\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\8d00a168e813ff45bd8ca2b1cf62c05b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\8d00a168e813ff45bd8ca2b1cf62c05b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\b2c4b41fa940b340cbb083c7acf50f67\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\b2c4b41fa940b340cbb083c7acf50f67\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\8ca151398af9e35b565110e49af4ecea\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\8ca151398af9e35b565110e49af4ecea\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\a83b2f7874acc496633c644c13c74961\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\a83b2f7874acc496633c644c13c74961\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\5abf7bd321dea4643a6232477aa1bd59\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\5abf7bd321dea4643a6232477aa1bd59\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\645c19b86e8c9d278d048a698b47d180\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\645c19b86e8c9d278d048a698b47d180\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\99889285cfe7461f93b3fe4714b9e77e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\99889285cfe7461f93b3fe4714b9e77e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\82db6613a1d869a44da7412362e23d68\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\82db6613a1d869a44da7412362e23d68\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\d3ebe1556a5b396929343c23edf1886c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\d3ebe1556a5b396929343c23edf1886c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\4ea079d8287d4e4e481ba7c9b4f131ec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\4ea079d8287d4e4e481ba7c9b4f131ec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\9ffa1d4b40b8be4fda9885056476f03c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\9ffa1d4b40b8be4fda9885056476f03c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\8d238d0bd03f5fda89c01cf42ed9690c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\8d238d0bd03f5fda89c01cf42ed9690c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\8623e724da9a9d0c22d92f3a4fa92a3e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\8623e724da9a9d0c22d92f3a4fa92a3e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\19f2c7df801e764ef5c816ecc7aa9f1b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\19f2c7df801e764ef5c816ecc7aa9f1b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\d20a8833175e536ffeb6e17b3b64d968\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\d20a8833175e536ffeb6e17b3b64d968\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\592ed2747b48d37e4676a8ab218c81e0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\592ed2747b48d37e4676a8ab218c81e0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\9139b665a3bde178ed610c8b513a626b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\9139b665a3bde178ed610c8b513a626b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\cf1f8407edac2620206a6184ea5d9a7a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\cf1f8407edac2620206a6184ea5d9a7a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\6933f3220f272fce4f37462ae803619a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-2\files-2.1\6933f3220f272fce4f37462ae803619a\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Dovydas\Desktop\NumberGuessGame\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Dovydas\Desktop\NumberGuessGame\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Dovydas\Desktop\NumberGuessGame\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dovydas\Desktop\NumberGuessGame\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dovydas\Desktop\NumberGuessGame\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Dovydas\Desktop\NumberGuessGame\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dovydas\Desktop\NumberGuessGame\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dovydas\Desktop\NumberGuessGame\app\src\main\AndroidManifest.xml

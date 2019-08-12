@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_purple"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="match_parent"
+        android:layout_height="360dp"
+        android:src="@drawable/logo_transp" />
+
+    <Button
+        android:id="@+id/button_zaisti"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="2dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginBottom="2dp"
+        android:background="@drawable/btn_rounded"
+        android:text="@string/button_play"
+        android:textColor="@android:color/background_light" />
+
+    <Button
+        android:id="@+id/button_nustatymai"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="2dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginBottom="2dp"
+        android:background="@drawable/btn_rounded"
+        android:text="@string/button_settings"
+        android:textColor="@android:color/background_light" />
+
+    <Button
+        android:id="@+id/button_apie"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="2dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginBottom="2dp"
+        android:background="@drawable/btn_rounded"
+        android:text="@string/button_about"
+        android:textColor="@android:color/background_light" />
+
+</LinearLayout>

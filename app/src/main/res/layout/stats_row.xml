@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView_stats_id"
+        android:layout_width="35dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="Nr"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@android:color/background_light"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView_stats_sunkumas"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:text="Sunkumas"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@android:color/background_light"
+        app:layout_constraintStart_toEndOf="@+id/textView_stats_id"
+        app:layout_constraintTop_toTopOf="@+id/textView_stats_id" />
+
+    <TextView
+        android:id="@+id/textView_stats_sk"
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:text="Skaičius"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@android:color/background_light"
+        app:layout_constraintStart_toEndOf="@+id/textView_stats_sunkumas"
+        app:layout_constraintTop_toTopOf="@+id/textView_stats_sunkumas" />
+
+    <TextView
+        android:id="@+id/textView_stats_spejimu"
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:text="Spėjimų"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@android:color/background_light"
+        app:layout_constraintStart_toEndOf="@+id/textView_stats_sk"
+        app:layout_constraintTop_toTopOf="@+id/textView_stats_sk" />
+
+    <TextView
+        android:id="@+id/textView_stats_likoSpejimu"
+        android:layout_width="110dp"
+        android:layout_height="wrap_content"
+        android:text="Liko spėjimų"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@android:color/background_light"
+        app:layout_constraintStart_toEndOf="@+id/textView_stats_spejimu"
+        app:layout_constraintTop_toTopOf="@+id/textView_stats_spejimu" />
+</android.support.constraint.ConstraintLayout>

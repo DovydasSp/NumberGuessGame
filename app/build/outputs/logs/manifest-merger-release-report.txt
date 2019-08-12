@@ -1,0 +1,175 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Dovydas\Desktop\test2\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Dovydas\Desktop\test2\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Dovydas\Desktop\test2\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Dovydas\Desktop\test2\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\dc35162b59c8dfa288cd339a3f607694\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0-alpha1.aar\06ad34302ca0d4418ab23b92f61c3bae\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.0.aar\44d653f241070f39838959418f42fdde\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0-alpha1.aar\7d35921e373c04b8f596fe888a48b296\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0-alpha1.aar\dc2b6d989a5b5e24d02e634b0bbb9d48\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0-alpha1.aar\1cee9f1709d1afbecbf2a4fcce48ebf3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0-alpha1.aar\a1eaa320c037228c484d7cf3c50fd40d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0-alpha1.aar\91856ed670511de3b600802429862173\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\loader-1.0.0-alpha1.aar\8b94df0d02f2769b1367548a81c64d5f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0-alpha1.aar\9e981c351c97f4e47073eddee0b6bfd8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0-alpha1.aar\6125fd71c027bb8b261251e00ff0d86e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0-alpha1.aar\9c369125c26ca337927882bda1afeee0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0-alpha1.aar\2ebace1b4b0fecf4c9dccdffe3f66202\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\customview-1.0.0-alpha1.aar\c4979f3e85d83c031efd8c1b82f00763\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0-alpha1.aar\a57508fd43d6ec9057695150f6dca055\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0-alpha1.aar\4e1feeca80567f91319f6a0555f79fd4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\core-1.0.0-alpha1.aar\50969bdafd9481cfe923f54c67eda8b7\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0-alpha1.aar\ede60387f401cc1b8a591e891c1cde47\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0-alpha1.aar\1c010ebee7ebc93b0569a1635e1ce790\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0-alpha1.aar\81f0efe62d2ebc1d5cb9c4ef37cf33df\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\print-1.0.0-alpha1.aar\ff6b1f70838e30524925e5c95cb7caff\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0-alpha1.aar\c0ce170d8fc7fe8406bbe325e75e7d64\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0-alpha1.aar\54f292d43e2698c38fc017a7b60c79c5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0-alpha1.aar\14a9ba58a81414e9c3790bb0139d1ed8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0-alpha1.aar\3cdcff8aba3b4503e90ad86676ebe999\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0-alpha1.aar\dd40279d1f1f31628eb4629f1e6d12ed\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Dovydas\Desktop\test2\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Dovydas\Desktop\test2\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Dovydas\Desktop\test2\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from C:\Users\Dovydas\Desktop\test2\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\Dovydas\Desktop\test2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dovydas\Desktop\test2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Dovydas\Desktop\test2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dovydas\Desktop\test2\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\Dovydas\Desktop\test2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Dovydas\Desktop\test2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dovydas\Desktop\test2\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\Dovydas\Desktop\test2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Dovydas\Desktop\test2\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Dovydas\Desktop\test2\app\src\main\AndroidManifest.xml:5:5-25:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\dc35162b59c8dfa288cd339a3f607694\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\dc35162b59c8dfa288cd339a3f607694\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.0.aar\44d653f241070f39838959418f42fdde\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.0.aar\44d653f241070f39838959418f42fdde\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\core-1.0.0-alpha1.aar\50969bdafd9481cfe923f54c67eda8b7\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\core-1.0.0-alpha1.aar\50969bdafd9481cfe923f54c67eda8b7\AndroidManifest.xml:22:5-89
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\core-1.0.0-alpha1.aar\50969bdafd9481cfe923f54c67eda8b7\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Dovydas\Desktop\test2\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Dovydas\Desktop\test2\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Dovydas\Desktop\test2\app\src\main\AndroidManifest.xml:9:9-53
+	android:icon
+		ADDED from C:\Users\Dovydas\Desktop\test2\app\src\main\AndroidManifest.xml:7:9-49
+	android:allowBackup
+		ADDED from C:\Users\Dovydas\Desktop\test2\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Dovydas\Desktop\test2\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.dovspe.test2.MainActivity
+ADDED from C:\Users\Dovydas\Desktop\test2\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Dovydas\Desktop\test2\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Dovydas\Desktop\test2\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Dovydas\Desktop\test2\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Dovydas\Desktop\test2\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Dovydas\Desktop\test2\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Dovydas\Desktop\test2\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.dovspe.test2.ActivityAbout
+ADDED from C:\Users\Dovydas\Desktop\test2\app\src\main\AndroidManifest.xml:19:9-51
+	android:name
+		ADDED from C:\Users\Dovydas\Desktop\test2\app\src\main\AndroidManifest.xml:19:19-48
+activity#com.example.dovspe.test2.SettingActivity
+ADDED from C:\Users\Dovydas\Desktop\test2\app\src\main\AndroidManifest.xml:20:9-53
+	android:name
+		ADDED from C:\Users\Dovydas\Desktop\test2\app\src\main\AndroidManifest.xml:20:19-50
+activity#com.example.dovspe.test2.LevelSelectActivity
+ADDED from C:\Users\Dovydas\Desktop\test2\app\src\main\AndroidManifest.xml:21:9-57
+	android:name
+		ADDED from C:\Users\Dovydas\Desktop\test2\app\src\main\AndroidManifest.xml:21:19-54
+activity#com.example.dovspe.test2.PlayActivity
+ADDED from C:\Users\Dovydas\Desktop\test2\app\src\main\AndroidManifest.xml:22:9-50
+	android:name
+		ADDED from C:\Users\Dovydas\Desktop\test2\app\src\main\AndroidManifest.xml:22:19-47
+activity#com.example.dovspe.test2.WinLoseActivity
+ADDED from C:\Users\Dovydas\Desktop\test2\app\src\main\AndroidManifest.xml:23:9-53
+	android:name
+		ADDED from C:\Users\Dovydas\Desktop\test2\app\src\main\AndroidManifest.xml:23:19-50
+activity#com.example.dovspe.test2.StatsActivity
+ADDED from C:\Users\Dovydas\Desktop\test2\app\src\main\AndroidManifest.xml:24:9-60
+	android:name
+		ADDED from C:\Users\Dovydas\Desktop\test2\app\src\main\AndroidManifest.xml:24:19-48
+uses-sdk
+INJECTED from C:\Users\Dovydas\Desktop\test2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Dovydas\Desktop\test2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Dovydas\Desktop\test2\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\dc35162b59c8dfa288cd339a3f607694\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\dc35162b59c8dfa288cd339a3f607694\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0-alpha1.aar\06ad34302ca0d4418ab23b92f61c3bae\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0-alpha1.aar\06ad34302ca0d4418ab23b92f61c3bae\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.0.aar\44d653f241070f39838959418f42fdde\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.0.aar\44d653f241070f39838959418f42fdde\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0-alpha1.aar\7d35921e373c04b8f596fe888a48b296\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0-alpha1.aar\7d35921e373c04b8f596fe888a48b296\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0-alpha1.aar\dc2b6d989a5b5e24d02e634b0bbb9d48\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0-alpha1.aar\dc2b6d989a5b5e24d02e634b0bbb9d48\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0-alpha1.aar\1cee9f1709d1afbecbf2a4fcce48ebf3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0-alpha1.aar\1cee9f1709d1afbecbf2a4fcce48ebf3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0-alpha1.aar\a1eaa320c037228c484d7cf3c50fd40d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0-alpha1.aar\a1eaa320c037228c484d7cf3c50fd40d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0-alpha1.aar\91856ed670511de3b600802429862173\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0-alpha1.aar\91856ed670511de3b600802429862173\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\loader-1.0.0-alpha1.aar\8b94df0d02f2769b1367548a81c64d5f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\loader-1.0.0-alpha1.aar\8b94df0d02f2769b1367548a81c64d5f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0-alpha1.aar\9e981c351c97f4e47073eddee0b6bfd8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0-alpha1.aar\9e981c351c97f4e47073eddee0b6bfd8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0-alpha1.aar\6125fd71c027bb8b261251e00ff0d86e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0-alpha1.aar\6125fd71c027bb8b261251e00ff0d86e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0-alpha1.aar\9c369125c26ca337927882bda1afeee0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0-alpha1.aar\9c369125c26ca337927882bda1afeee0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0-alpha1.aar\2ebace1b4b0fecf4c9dccdffe3f66202\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0-alpha1.aar\2ebace1b4b0fecf4c9dccdffe3f66202\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\customview-1.0.0-alpha1.aar\c4979f3e85d83c031efd8c1b82f00763\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\customview-1.0.0-alpha1.aar\c4979f3e85d83c031efd8c1b82f00763\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0-alpha1.aar\a57508fd43d6ec9057695150f6dca055\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0-alpha1.aar\a57508fd43d6ec9057695150f6dca055\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0-alpha1.aar\4e1feeca80567f91319f6a0555f79fd4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0-alpha1.aar\4e1feeca80567f91319f6a0555f79fd4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\core-1.0.0-alpha1.aar\50969bdafd9481cfe923f54c67eda8b7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\core-1.0.0-alpha1.aar\50969bdafd9481cfe923f54c67eda8b7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0-alpha1.aar\ede60387f401cc1b8a591e891c1cde47\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0-alpha1.aar\ede60387f401cc1b8a591e891c1cde47\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0-alpha1.aar\1c010ebee7ebc93b0569a1635e1ce790\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0-alpha1.aar\1c010ebee7ebc93b0569a1635e1ce790\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0-alpha1.aar\81f0efe62d2ebc1d5cb9c4ef37cf33df\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0-alpha1.aar\81f0efe62d2ebc1d5cb9c4ef37cf33df\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\print-1.0.0-alpha1.aar\ff6b1f70838e30524925e5c95cb7caff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\print-1.0.0-alpha1.aar\ff6b1f70838e30524925e5c95cb7caff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0-alpha1.aar\c0ce170d8fc7fe8406bbe325e75e7d64\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0-alpha1.aar\c0ce170d8fc7fe8406bbe325e75e7d64\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0-alpha1.aar\54f292d43e2698c38fc017a7b60c79c5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0-alpha1.aar\54f292d43e2698c38fc017a7b60c79c5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0-alpha1.aar\14a9ba58a81414e9c3790bb0139d1ed8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0-alpha1.aar\14a9ba58a81414e9c3790bb0139d1ed8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0-alpha1.aar\3cdcff8aba3b4503e90ad86676ebe999\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0-alpha1.aar\3cdcff8aba3b4503e90ad86676ebe999\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0-alpha1.aar\dd40279d1f1f31628eb4629f1e6d12ed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0-alpha1] C:\Users\Dovydas\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0-alpha1.aar\dd40279d1f1f31628eb4629f1e6d12ed\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Dovydas\Desktop\test2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Dovydas\Desktop\test2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Dovydas\Desktop\test2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dovydas\Desktop\test2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dovydas\Desktop\test2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Dovydas\Desktop\test2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dovydas\Desktop\test2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dovydas\Desktop\test2\app\src\main\AndroidManifest.xml

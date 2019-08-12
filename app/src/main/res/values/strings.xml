@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NumberGuessGame</string>
+    <string name="button_play">Žaisti</string>
+    <string name="button_settings">Nustatymai</string>
+    <string name="button_about">Apie</string>
+    <string name="about_me">Sukūrė: </string>
+    <string name="about_me2">Dovydas Špečkauskas</string>
+    <string name="about_creation_date">2019</string>
+</resources>
